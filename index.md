@@ -16,8 +16,6 @@ locations:
   - venue: "Online"
     address: "https://carpentries.zoom.us/my/carpentriesroom1"
     
- Application: Please use this <a href="https://forms.gle/wpsaRwMgvrBMvEBF6"><b>application form</b></a>. Succesfull candidates will be contacted via email.
-
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
@@ -158,6 +156,11 @@ as an instructor: the details are available at
 <a href="{{ site.training_site }}/checkout/">{{ site.training_site }}/checkout/</a>.
 If you have any questions about the workshop, the reading material,
 or anything else, please get in touch.
+
+<h3>Application</h3>
+
+Pleaes use this <a href ="https://forms.gle/wpsaRwMgvrBMvEBF6"><b>application form</b></a>.
+Successful candidates will be notified via email.
 
 
 <h3>Code of Conduct</h3>
