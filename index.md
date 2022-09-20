@@ -159,7 +159,7 @@ or anything else, please get in touch.
 
 <h3>Application</h3>
 
-Pleaes use this <a href ="https://docs.google.com/forms/d/e/1FAIpQLScpVIlfXJzHGTqv74ZD0ezIzJT6QXwir84mukiV1xxyjK6WFA/viewform?vc=0&c=0&w=1&flr=0"><b>application form</b></a>.
+Pleaes use this <a href ="(https://docs.google.com/forms/d/e/1FAIpQLScpVIlfXJzHGTqv74ZD0ezIzJT6QXwir84mukiV1xxyjK6WFA/viewform?vc=0&c=0&w=1&flr=0)"><b>application form</b></a>.
 Successful candidates will be notified via email.
 
 
